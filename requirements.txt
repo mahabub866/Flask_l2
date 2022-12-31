@@ -1,3 +1,2 @@
 flask
-sqlalchemy
-sqlalchemy_utils
+flask-restful
